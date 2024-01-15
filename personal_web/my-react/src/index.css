@@ -1,0 +1,18 @@
+:root {
+    --font-family: 'Roboto', sans-serif;
+    --font-family-2: 'nunito', sans-serif;
+
+
+
+
+    --color-black: #1E1E1E;
+    --color-white: var(--black, #FFF1EB);
+    --gradient_text: radial-gradient(circle at 27% 11%, rgba(15, 120, 170, 1) 0%, rgba(255, 161, 119, 1) 100%);
+    --gradient_button: radial-gradient(circle at 27% 11%, rgba(255, 241, 235, 1) 0%, rgba(172, 224, 249, 1) 100%);
+
+
+
+
+
+
+}
